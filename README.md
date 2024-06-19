@@ -1,3 +1,4 @@
 # moizzah-demo
-This is my first Git Repository 
-Moizzah Rehman
+This is my first Git Repository.
+<br>
+Author - Moizzah Rehman
